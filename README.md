@@ -3,7 +3,9 @@
 This report provides a comprehensive overview of employee metrics, attrition trends, and satisfaction ratings across departments, age groups, and education fields.
 
 ---
+![HR Analytics Dashboard](HrDash.png)
 
+---
 ## 🧍‍♂️ Employee Overview
 
 - **Total Employees**: 1,470  
@@ -74,7 +76,7 @@ This report provides a comprehensive overview of employee metrics, attrition tre
 ---
 
 ## 🚻 Gender-Wise Attrition by Age Group
-![HR Analytics Dashboard](hr_analytics_dashboard.png)
+
 
 | Age Group   | Female Attrition (%) | Male Attrition (%) | Total Attrition |
 |-------------|----------------------|---------------------|------------------|
